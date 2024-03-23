@@ -18,6 +18,7 @@
   "homepage": "https://github.com/nadirhamid/audiofork-azure-transcribe-demo#readme",
   "dependencies": {
     "dotenv": "^16.4.5",
+    "microsoft-cognitiveservices-speech-sdk": "^1.36.0",
     "ws": "^8.16.0"
   }
 }
